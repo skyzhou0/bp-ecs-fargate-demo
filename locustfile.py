@@ -36,6 +36,6 @@ class WebsiteUser(HttpLocust):
     max_wait = 15000
 
 
-# locust -f locustfile.py --host=http://EC2Co-EcsEl-1AHLHP48GLN13-1815227589.eu-west-1.elb.amazonaws.com:80
-# locust -f locustfile.py --host=EC2Co-EcsEl-1AHLHP48GLN13-1815227589.eu-west-1.elb.amazonaws.com
+# locust -f locustfile.py --host=
+# locust -f locustfile.py --host=
 # locust -f --no-web -c 1000 -r 100 --run-time 1h30m
