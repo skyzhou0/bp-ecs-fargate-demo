@@ -1,4 +1,4 @@
-FROM python:3.5-slim
+FROM python:3.10.0b3-slim
 
 MAINTAINER AWS ProServe
 
