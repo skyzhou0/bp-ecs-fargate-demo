@@ -33,8 +33,8 @@ locustio==0.11.0
 MarkupSafe==1.1.1
 more-itertools==7.2.0
 msgpack==0.6.2
-mxnet==1.5.1.post0
-numpy==1.17.2
+mxnet==1.9.1.post0
+numpy==1.22.2
 packaging==19.2
 parso==0.5.1
 pexpect==4.7.0
@@ -54,14 +54,14 @@ pytz==2019.3
 PyYAML==5.4
 pyzmq==18.1.0
 requests==2.22.0
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.2.1
 scikit-learn==0.21.3
 scipy==1.3.1
 six==1.12.0
 tqdm==4.36.1
 traitlets==4.3.2
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==16.6.2
 wcwidth==0.1.7
 Werkzeug==0.16.0
